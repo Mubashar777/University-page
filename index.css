@@ -1,0 +1,149 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background: url(https://images.pexels.com/photos/207636/pexels-photo-207636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+.left{
+    
+    top: 22px;
+    left: 34px;
+    
+    display: inline-block; 
+}
+.left img{
+    height: 100px;
+    padding:0px;
+    margin-left: 44px;
+}
+.left p{
+margin: 0px auto;
+color: rgb(221, 145, 4);
+margin-left: 22px;
+font-size: large;
+
+
+}
+
+
+.navbar{
+display: inline-block;
+
+
+}
+.navbar li{
+display: inline-block;
+
+}
+
+
+ .right{
+
+    position: absolute;
+    right: 34px;
+    top: 22px;
+    display: inline-block;
+    color: white;
+    
+    
+ }
+ .right button{
+  border: 2px soild orange;
+    background-color:rgba(253, 196, 9, 0) ;
+    color:white;
+    font-size: medium;
+    cursor: pointer;
+    text-decoration: none;
+ }
+ .right button :hover{
+  text-decoration: underline;
+  color: rgb(247, 165, 12);
+ }
+.btn{
+
+  color:white;
+}
+.btn:hover{
+text-decoration: underline;
+  color: rgb(247, 165, 12);
+ }
+
+ .heading h1{
+  
+  color: rgb(247, 165, 12);
+  background-color: rgba(21, 21, 22, 0.555);
+  display: inline-block;
+  
+ }
+.menu{
+color: white;
+margin-top: 0px;
+padding: 15px;
+cursor: pointer;
+
+
+}
+.menu a:hover{
+
+color: rgb(247, 165, 12);
+text-decoration: underline;
+}
+.menu a :active{
+color: rgb(247, 165, 12) ;
+}
+.blue button{
+color: rgb(62, 62, 233);
+}
+.search input{
+border: 2px rgb(248, 251, 252);
+margin-left: 30px;
+width: 500px;
+height: 50px;
+padding: 8px;
+background-color:rgba(255, 255, 255, 0.534);
+border-radius: 12px;
+}
+.search button{
+height: 50px;
+width: 100px ;
+border: 2px rgb(248, 251, 252);
+background-color: rgba(101, 153, 250, 0.808);
+border-radius: 12px;
+cursor: pointer;
+}
+.search button:hover{
+background-color: rgb(61, 123, 238);
+}
+.search li{
+background-color: rgba(0, 0, 255, 0.651);
+color: white;
+font-size: larger;
+display: inline-block;
+margin-left: 30px;
+}
+.message img{
+height: 200px;
+margin-left: 200px;
+border-radius: 100px;
+}
+.message p{
+color: white;
+font-size: xx-large;
+
+}
+.pera{
+
+font-size: medium;
+padding: 13px;
+margin-top: 33px;
+}
+.message{
+background-color: rgba(110, 243, 225, 0.521);
+}
+.message ul{
+font-size: large;
+}
+.char{
+background-color: rgba(128, 128, 128, 0.63);
+display:inline-block;
+}

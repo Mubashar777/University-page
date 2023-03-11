@@ -1,0 +1,27 @@
+body{
+    background: url(https://images.pexels.com/photos/207636/pexels-photo-207636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+.body{
+    color: white;
+}
+.login{
+    color: white;
+    border: 4px solid rgba(34, 33, 34, 0.37);
+    display: inline-block;
+    padding: 22px;
+    margin-left:32px;
+    background-color: rgba(34, 33, 34, 0.37);
+}
+.login button{
+    color: white;
+    background-color:rgb(247, 165, 12) ;
+    cursor: pointer;
+    
+}
+.login p{
+color: blue;
+cursor: pointer;
+}
+.login p:hover{
+text-decoration: underline;
+}
